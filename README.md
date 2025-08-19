@@ -11,6 +11,9 @@ A starter template for [marimo](https://marimo.io) notebooks using [pixi](https:
 - 👷 CI/CD with GitHub Actions
 - 📓 Interactive notebook development with marimo
 
+### Why does this exist?
+Mainly to help me get my head round working with both github templates and the pixi/marimo combination. I think CCDS will generate most of this, but it is not yet configured for Marimo 'notebooks'
+
 ## Prerequisites
 
 - [pixi](https://github.com/prefix-dev/pixi) installed
