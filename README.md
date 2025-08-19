@@ -1,4 +1,4 @@
-# marimo + pixi Starter Template
+# marimo + pixi + CCDS Starter Template
 
 A starter template for [marimo](https://marimo.io) notebooks using [pixi](https://github.com/prefix-dev/pixi) for dependency and project management. This template provides a modern Python development setup with a folder structure inspired by the [Cookie Cutter Data Science](https://cookiecutter-data-science.drivendata.org) project. The original template is here: https://github.com/marimo-team/marimo-pixi-starter-template
 
