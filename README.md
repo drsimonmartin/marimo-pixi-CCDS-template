@@ -55,11 +55,21 @@ pixi run pre-commit-install
 
 ```markdown
 ├── .github/          # GitHub Actions workflows
-├── src/              # Source code
+├── marimo-notebooks/              # Source code
 │   └── app.py        # Sample marimo notebook
+└── data/         # Data used in the work
+│        └── raw/        		# the raw data - do not change
+│        └── processed/        	# the final data for modelling
+│        └── interim/        	# intermediate data - has been transformed
+│        └── external/	        # any data from 3rd parties
+├── docs/              # documentation for code etc. Suggest use mkdocs format
+├── references/              	# Any papers, manuals etc used
+├── reports/              # Any output reports (LaTeX, Markdown, Jupyterbooks, Quarto, etc.)
+│        └── figures/        	# figures, graphs, etc for reports
 ├── tests/            # Test files
 ├── pyproject.toml    # Project configuration
 └── pixi.lock         # Dependency lock file
+
 ```
 
 ## License
