@@ -1,0 +1,1 @@
+Folder for data that has been modified in some way for use in the project. These data are works in progress and should not be used in the final analysis– for that use the data in the folder 'processed'

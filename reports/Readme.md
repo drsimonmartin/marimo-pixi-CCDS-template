@@ -1,0 +1,3 @@
+Reports for publication/distribution are stored in this folder.
+
+Reproducible formats are recommended e.g. latex, markdown, Jupyter book, Quarto,...
